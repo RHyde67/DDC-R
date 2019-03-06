@@ -9,6 +9,8 @@ doi: 10.1109/UKCI.2014.6930157
 
 Downloadable from: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6930157&isnumber=6930143
 
+**Please note, this was a quick and dirty port from the original Matlab code and is not intended to be complete or final.
+
 Files:
 
 DDC.Rproj - Project file
